@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GOLD AI</title>
+</head>
+<body>
+  <h1>GOLD AI</h1>
+  <p>Private XAUUSD trading research and automation project.</p>
+  <p>The project is currently developed for research and testing with an FxPro cTrader DEMO account.</p>
+  <p>Live trading is currently disabled.</p>
+</body>
+</html>
